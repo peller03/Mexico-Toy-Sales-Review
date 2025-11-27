@@ -1,5 +1,5 @@
 # Mexico-Toy-Sales-Review
-
+---
 ## Table of Contents
 - [Project Scope](#project-scope)
 - [Data Sources](#data-sources)
